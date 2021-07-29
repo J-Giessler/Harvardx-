@@ -24,7 +24,7 @@ load_librarys <- function(librarys) {
 librarys <- c("tidyverse", "readxl", "ggpubr", 
           "ggthemes", "caret","rpart.plot","ggcorrplot")
 
-load_library(libs)
+load_librarys(librarys)
 #Then we load the data from the UCI Repository
 
 
